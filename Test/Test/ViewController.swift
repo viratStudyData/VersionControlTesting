@@ -13,6 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         let a = 5
         let b = 10
+        let c = 15
         
     }
 
