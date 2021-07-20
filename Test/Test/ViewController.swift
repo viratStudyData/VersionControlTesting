@@ -16,7 +16,6 @@ class ViewController: UIViewController {
         let c = 15
         print(c)
         print(b)
-        
     }
 
 
