@@ -15,6 +15,7 @@ class ViewController: UIViewController {
         let b = 10
         let c = 15
         print(c)
+        print(b)
         
     }
 
